@@ -3,6 +3,9 @@
 # This code is licensed under the GPL version 2 or later.  See
 # the COPYING file in the top-level directory.
 
+# Hax
+exit 0
+
 substat=".git-submodule-status"
 
 command=$1
